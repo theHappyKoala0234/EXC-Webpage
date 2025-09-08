@@ -2,6 +2,7 @@
   "name": "health-club-vellore-spa",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://theHappyKoala0234.github.io/health-club-vellore-spa",
   "dependencies": {
     "framer-motion": "^11.0.0",
     "lucide-react": "^0.427.0",
@@ -11,6 +12,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.3"
   },
@@ -18,7 +20,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [

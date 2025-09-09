@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/health-club-vellore-spa/static/css/main.14dacacd.css",
-    "main.js": "/health-club-vellore-spa/static/js/main.11962d41.js",
-    "index.html": "/health-club-vellore-spa/index.html",
-    "main.14dacacd.css.map": "/health-club-vellore-spa/static/css/main.14dacacd.css.map",
-    "main.11962d41.js.map": "/health-club-vellore-spa/static/js/main.11962d41.js.map"
+    "main.css": "/EXC-Webpage/static/css/main.14dacacd.css",
+    "main.js": "/EXC-Webpage/static/js/main.11962d41.js",
+    "index.html": "/EXC-Webpage/index.html",
+    "main.14dacacd.css.map": "/EXC-Webpage/static/css/main.14dacacd.css.map",
+    "main.11962d41.js.map": "/EXC-Webpage/static/js/main.11962d41.js.map"
   },
   "entrypoints": [
     "static/css/main.14dacacd.css",
